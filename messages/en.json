@@ -1,0 +1,292 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Solutions",
+    "choose": "Why Partner With Us",
+    "contact": "Contact us"
+  },
+
+  "hero-section": {
+    "title": {
+      "1":"Web, E-commerce & Software Solutions Designed",
+      "2":"Just for You"
+    },
+    "description": "We create strategic digital solutions that drive your business forward — from sleek websites to e-commerce platforms and tailored software.",
+
+    "web": {
+      "title" : "Web Solutions",
+      "description": "Professional, high-speed, fully responsive websites"
+    },
+    "ecommerce": {
+      "title" : "E-commerce Platforms",
+      "description": "High-performance, scalable e-commerce platforms"
+    },
+    "software": {
+      "title" : "Custom Software Solutions",
+      "description": "Tailor-made applications designed for your business"
+    }
+  },
+
+  "about-section": {
+    "title": "Your Strategic Technology Partner",
+    "subtitle": "About Us",
+    "description": "At MagicWebs, we combine creativity with cutting-edge technology to build digital solutions that transform businesses. Our approach is focused on understanding your needs and turning them into digital products that deliver real results. \n We help growing companies with custom, scalable digital solutions built using modern technologies and best practices to maximize growth and performance.",
+    "features": [
+      "Results-driven development",
+      "Technology that helps businesses grow",
+      "Agile development methodologies",
+      "Ongoing technical support",
+      "Projects delivered on time",
+      "Clean, well-documented code"
+      ]
+  },
+
+  "why-us-section": {
+      "title": "Why Build With U",
+      "subtitle": "Advantages",
+      "description": "We combine experience, technology, and commitment to create digital solutions that take your business to the next level.",
+      
+      "list-card": {
+        "1": {
+          "title": "Modern Technology",
+          "description": "We use the latest technologies and frameworks to ensure your project is fast, secure, and scalable."
+        },
+         "2": {
+          "title": "Guaranteed Security",
+          "description": "We implement best security practices to protect your business and your customers’ data."
+        },
+         "3": {
+          "title": "Dedicated Support",
+          "description": "Our team is available to support you every step of the way, from design to launch."
+        },
+         "4": {
+          "title": "Fast Delivery",
+          "description": "Agile methodologies allow us to deliver high-quality results within competitive timelines."
+        },
+         "5": {
+          "title": "Custom Design",
+          "description": "Every project is unique. We create custom designs that reflect your brand identity."
+        },
+         "6": {
+          "title": "Results-Driven",
+          "description": "We don’t just build websites — we create tools that generate leads and increase your sales."
+        }
+      }
+  },
+
+  "service-section": {
+    "title": "End-to-End Digital Solutions",
+    "subtitle": "Our Services",
+    "description": "We offer a full range of development services to cover all your business’s digital needs.",
+
+    "list-card": {
+      "1": {
+        "title": "Web Development",
+        "description": "Corporate websites, landing pages, and web portals designed to turn visitors into customers.",
+        "list": [
+          "Responsive Design",
+          "SEO Optimization",
+          "Fast Loading Speed",
+          "Integrated Dashboard"
+        ]
+      },
+
+      "2": {
+        "title": "E-commerce",
+        "description": "Fully featured online stores with payment gateways, inventory management, and an optimized shopping experience.",
+        "list": {
+          "1": "Shopping Cart",
+          "2": "Secure Payments",
+          "3": "Product Management",
+          "4": "Sales Analytics"
+        }
+      },
+
+      "3": {
+        "title": "Custom Software",
+        "description": "Tailored systems to automate processes, including CRMs, ERPs, and enterprise solutions.",
+        "list": {
+          "1": "Process Automation",
+          "2": "API Integrations",
+          "3": "Dashboards",
+          "4": "Reporting"
+        }
+      }
+    }
+  },
+
+   "portfolio-section": {
+    "title": "Featured Projects",
+    "subtitle": "Our Work",
+    "description": "Explore some of our most recent projects and discover how we’ve helped our clients achieve their digital goals.",
+
+    "list-card": {
+      "1": {
+        "title": "Hospitality Development",
+        "category": "Website",
+        "description": "A modern hospitality website designed to showcase the hotel’s experience, highlight its services, and drive direct bookings through an intuitive and visually engaging user experience."
+      },
+      "2": {
+        "title": "Tours Development",
+        "category": "Website",
+        "description": "A web platform optimized to attract travelers, showcase tours, and enable direct bookings quickly and easily on any device."
+      }
+    }
+  },
+
+  "faq-section": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We Answer Your Questions",
+    "description": "Find answers to the most common questions about our web development and software services.",
+
+    "1": {
+      "Q1": "How long does it take to develop a website?",
+      "A1": "The development time varies depending on the complexity of the project. A basic informational website can be ready in 2-3 weeks, while an e-commerce site or a custom web application may take 4 to 8 weeks. During the initial consultation, we will provide you with a detailed timeline."
+    },
+    "2": {
+      "Q2": "What is the approximate cost of a project?",
+      "A2": "Each project is unique, so costs vary depending on the requirements. We offer personalized quotes with no obligation. Contact us with the details of your project, and we will send you a detailed proposal with transparent pricing."
+    },
+    "3": {
+      "Q3": "Do you offer support after launch?",
+      "A3": "Absolutely! All our projects include 30 days of free support after launch to ensure everything works perfectly. For long-term peace of mind, we also offer monthly maintenance plans with security updates, backups, and ongoing technical support."
+    },
+    "4": {
+      "Q4": "Can I update my website content myself?",
+      "A4": "Of course. We develop websites with intuitive admin panels that allow you to update text, images, and products without technical knowledge. We also provide free training so you can manage your site independently."
+    },
+    "5": {
+      "Q5": "Will the website be responsive (mobile-friendly)?",
+      "A5": "Absolutely. All our developments are 100% responsive and optimized to work perfectly on computers, tablets, and smartphones. This is essential for SEO and user experience."
+    },
+    "6": {
+      "Q6": "Do you include hosting and domain in the service?",
+      "A6": "We can manage hosting and domain registration for you, or work with your current provider. We advise on the best options based on your project’s needs and budget."
+    }
+  },
+
+  "cta-section": {
+    "title": "Take Your Business to the Next Digital Level",
+    "description": "Schedule a free consultation with our team and discover how we can help you achieve your digital goals.",
+
+    "list": {
+      "1": {
+        "title": "No Obligation",
+        "subtitle": "Free digital strategy session"
+      },
+      "2": {
+        "title": "100%",
+        "subtitle": "Satisfaction guaranteed"
+      }
+    }
+  },
+
+  "footer": {
+    "section_social": {
+      "description": "We create digital solutions that elevate your project to the next level",
+      "social": {
+        "1": {
+          "title": "Facebook",
+          "link": "https://www.facebook.com/MagicwebsPro"
+        }
+      }
+    },
+    "section_contact": {
+        "contact": {
+          "title": "Contact",
+          "1": {
+            "title": "Email",
+            "email": "info@magicwebs.com"
+          },
+          "2": {
+            "title": "Phone Number",
+            "phone": "+52 (322) 378 75 06",
+            "link": "523223787506"
+          },
+          "3": {
+            "title": "Location",
+            "location": "Lomas del Coapinole, Puerto Vallarta, Jalisco, mexico."
+          }
+        },
+        "services": {
+          "title": "Services",
+          "1": {
+            "title": "Web Development",
+            "link": "#"
+          },
+          "2": {
+            "title": "E-commerce",
+            "link": "#"
+          },
+          "3": {
+            "title": "Social Media",
+            "link": "#"
+          }
+        }
+    },
+    "section_form": {
+      "title": "Newsletter",
+      "email": "Email Address",
+      "text": "Message"
+    },
+
+    "form_error": {
+      "success": "Message sent successfully",
+      "error": "Error sending message. Please try again.",
+      "submit": {
+        "1": "Sending...",
+        "2": "Send Message"
+      }
+    }
+  },
+
+  "privacy":{
+    "title": "Privacy Policy"
+  },
+
+  "signature": {
+    "title": "© 2026 MagicWebs. All rights reserved."
+  },
+
+  "button": {
+    "btn_quote": "Get a Free Quote",
+    "btn_proyect": "Start Your Project",
+    "btn_services": "Explore Services",
+    "btn_call": "Call Now",
+    "btn_send": "Send Message"
+  },
+  
+  "form_quote": {
+    "title": "Request a Quote",
+    "description": "Fill out the form and we’ll get in touch with you shortly.",
+    "form": {
+      "name": {
+        "title": "Your Name",
+        "input": "Enter your name"
+      },
+      "email": {
+        "title": "Email Address",
+        "input": "Enter your email address"
+      },
+      "phone": {
+        "title": "Phone Numbe",
+        "input": "+52 (322) 123 45 67"
+      },
+      "imagen": "Attach image (JPG or PNG",
+      "comment": {
+        "title" : "Comments",
+        "text": "Tell us about your project"
+      }
+    },
+
+    "form_send": {
+      "1": "Sending...",
+      "2": "Send Message"
+    },
+
+    "form_error": {
+      "imagen_error": "Click to upload an image",
+      "error": "Something went wrong. Please try again"
+    }
+  }
+}

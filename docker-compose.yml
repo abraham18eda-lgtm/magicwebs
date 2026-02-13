@@ -1,0 +1,42 @@
+
+services:
+  web:
+    image: magicwebs-dev
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      DATABASE_USER: postgres
+      DATABASE_PASSWORD: 2026
+      DATABASE_NAME: magicwebspro
+      DATABASE_HOST: db   # <- importante, NO 127.0.0.1
+    depends_on:
+      - db
+
+  db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 2025
+      POSTGRES_DB: magicwebspro
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  # pgadmin:
+  #     image: dpage/pgadmin4
+  #     environment:
+  #       PGADMIN_DEFAULT_EMAIL: admin@admin.com
+  #       PGADMIN_DEFAULT_PASSWORD: admin
+  #     ports:
+  #       - "8080:80"
+  #     depends_on:
+  #       - db
+
+volumes:
+  pgdata:

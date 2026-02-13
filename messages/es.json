@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "choose": "Por qué elegirnos",
+    "contact": "Contacto"
+  },
+
+  "hero-section": {
+    "title": {
+      "1":"Desarrollo Web, E-commerce y Software",
+      "2":"a tu medida"
+    },
+    "description": "Desarrollamos soluciones digitales estratégicas para potenciar tu negocio. Desde sitios web modernos hasta plataformas de comercio electrónico y software personalizado.",
+
+    "web": {
+      "title" : "Desarrollo Web",
+      "description": "Sitios web profesionales, rápidos y adaptables"
+    },
+    "ecommerce": {
+      "title" : "E-commerce",
+      "description": "Plataformas de comercio electrónico eficientes y escalables"
+    },
+    "software": {
+      "title" : "Software",
+      "description": "Aplicaciones hechas a la medida de tu negocio"
+    }
+  },
+
+  "about-section": {
+    "title": "Tu socio estratégico en tecnología",
+    "subtitle": "Sobre Nosotros",
+    "description": "En MagicWebs, combinamos creatividad con tecnología de vanguardia para crear soluciones digitales que transforman negocios. Nuestro enfoque está centrado en entender tus necesidades y convertirlas en productos digitales que generen resultados reales. \n Ayudamos a empresas en crecimiento con soluciones digitales personalizadas, escalables y desarrolladas con tecnología moderna y mejores prácticas para maximizar su desarrollo y resultados.",
+      "features": [
+      "Desarrollo orientado a resultados",
+      "Tecnología que hace crecer negocios",
+      "Metodologías ágiles de desarrollo",
+      "Soporte técnico continuo",
+      "Proyectos entregados a tiempo",
+      "Código limpio y documentado"
+    ]
+  },
+
+  "why-us-section": {
+      "title": "Por qué desarrollar con nosotros",
+      "subtitle": "Ventajas",
+      "description": "Combinamos experiencia, tecnología y compromiso para crear soluciones digitales que impulsan tu negocio al siguiente nivel.",
+      
+      "list-card": {
+        "1": {
+          "title": "Tecnología Moderna",
+          "description": "Utilizamos las últimas tecnologías y frameworks para garantizar que tu proyecto sea rápido, seguro y escalable."
+        },
+         "2": {
+          "title": "Seguridad Garantizada",
+          "description": "Implementamos las mejores prácticas de seguridad para proteger tu negocio y los datos de tus clientes."
+        },
+         "3": {
+          "title": "Soporte Dedicado",
+          "description": "Nuestro equipo está disponible para ayudarte en cada paso del camino, desde el diseño hasta el lanzamiento."
+        },
+         "4": {
+          "title": "Entregas Rápidas",
+          "description": "Metodologías ágiles nos permiten entregar resultados de alta calidad en tiempos competitivos."
+        },
+         "5": {
+          "title": "Diseño Personalizado",
+          "description": "Cada proyecto es único. Creamos diseños personalizados que reflejan la identidad de tu marca."
+        },
+         "6": {
+          "title": "Orientado a Resultados",
+          "description": "No solo construimos sitios web, creamos herramientas que generan leads y aumentan tus ventas."
+        }
+      }
+  },
+
+  "service-section": {
+    "title": "Soluciones digitales completas",
+    "subtitle": "Nuestros Servicios",
+    "description": "Ofrecemos una gama completa de servicios de desarrollo para cubrir todas las necesidades digitales de tu negocio.",
+
+    "list-card": {
+      "1": {
+        "title": "Desarrollo Web",
+        "description": "Sitios web corporativos, landing pages y portales web diseñados para convertir visitantes en clientes.",
+        "list": [
+          "Diseño Responsivo",
+          "SEO Optimizado",
+          "Velocidad de Carga",
+          "Dashboard Integrado"
+        ]
+      },
+
+      "2": {
+        "title": "E-commerce",
+        "description": "Tiendas online completas con pasarelas de pago, gestión de inventario y experiencia de compra optimizada.",
+        "list": {
+          "1": "Carrito de Compras",
+          "2": "Pagos Seguros",
+          "3": "Gestión de Productos",
+          "4": "Análisis de Ventas"
+        }
+      },
+
+      "3": {
+        "title": "Software a Medida",
+        "description": "Sistemas personalizados para automatizar procesos, CRMs, ERPs y soluciones empresariales.",
+        "list": {
+          "1": "Automatización",
+          "2": "Integraciones API",
+          "3": "Dashboards",
+          "4": "Reportes"
+        }
+      }
+    }
+  },
+
+  "portfolio-section": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Nuestro trabajo",
+    "description": "Explora algunos de nuestros trabajos más recientes y descubre cómo hemos ayudado a nuestros clientes a alcanzar sus objetivos digitales.",
+
+    "list-card": {
+      "1": {
+        "title": "Desarrollo de Hotelería",
+        "category": "Sitio Web",
+        "description": "Un sitio web de hotelería moderno, diseñado para resaltar la experiencia del huésped, destacar los servicios del hotel y aumentar las reservas directas mediante una experiencia visual e intuitiva."
+      },
+      "2": {
+        "title": "Desarrollo de Tours",
+        "category": "Sitio Web",
+        "description": "Plataforma web optimizada para atraer turistas, promocionar tours y permitir reservas directas de forma rápida y sencilla desde cualquier dispositivo.A web platform optimized to attract travelers, showcase tours, and enable direct bookings quickly and easily on any device."
+      }
+    }
+  },
+
+  "faq-section": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Resolvemos tus dudas",
+    "description": "Encuentra respuestas a las preguntas más comunes sobre nuestros servicios de desarrollo web y software.",
+
+    "1": {
+      "Q1": "¿Cuánto tiempo toma desarrollar un sitio web?",
+      "A1": "El tiempo de desarrollo varía según la complejidad del proyecto. Un sitio web informativo básico puede estar listo en 2-3 semanas, mientras que un e-commerce o aplicación web personalizada puede tomar de 4 a 8 semanas. Durante la consulta inicial, te proporcionaremos un cronograma detallado."
+    },
+    "2": {
+      "Q2": "¿Cuál es el costo aproximado de un proyecto?",
+      "A2": "Cada proyecto es único, por lo que los costos varían según los requerimientos. Ofrecemos presupuestos personalizados sin compromiso. Contáctanos con los detalles de tu proyecto y te enviaremos una propuesta detallada con precios transparentes."
+    },
+    "3": {
+      "Q3": "¿Ofrecen soporte después del lanzamiento?",
+      "A3": "¡Claro! Todos nuestros proyectos incluyen 30 días de soporte gratuito después del lanzamiento, para que todo funcione perfecto. Y si quieres tranquilidad a largo plazo, tenemos planes de mantenimiento mensual con actualizaciones de seguridad, respaldos y soporte técnico siempre disponible."
+    },
+    "4": {
+      "Q4": "¿Puedo actualizar el contenido de mi sitio web yo mismo?",
+      "A4": "Por supuesto. Desarrollamos sitios web con paneles de administración intuitivos que te permiten actualizar textos, imágenes y productos sin necesidad de conocimientos técnicos. También proporcionamos capacitación gratuita para que puedas gestionar tu sitio de forma independiente."
+    },
+    "5": {
+      "Q5": "¿El sitio web será responsive (adaptable a móviles)?",
+      "A5": "Absolutamente. Todos nuestros desarrollos son 100% responsive y están optimizados para funcionar perfectamente en computadoras, tablets y smartphones. Esto es fundamental para el SEO y la experiencia del usuario."
+    },
+    "6": {
+      "Q6": "¿Incluyen hosting y dominio en el servicio?",
+      "A6": "Podemos gestionar la contratación del hosting y dominio por ti, o trabajar con tu proveedor actual. Te asesoramos sobre las mejores opciones según las necesidades de tu proyecto y presupuesto."
+    }
+  },
+
+   "cta-section": {
+    "title": "Llevemos tu negocio al siguiente nivel digital",
+    "description": "Agenda una consulta gratuita con nuestro equipo y descubre cómo podemos ayudarte a alcanzar tus objetivos digitales.",
+
+    "list": {
+      "1": {
+        "title": "Sin compromiso",
+        "subtitle": "Consulta inicial gratuita"
+      },
+      "2": {
+        "title": "100%",
+        "subtitle": "Satisfacción garantizada"
+      }
+    }
+  },
+
+  "footer": {
+    "section_social": {
+      "description": "Diseñamos y desarrollamos soluciones digitales que llevan tu proyecto al siguiente nivel.",
+      "social": {
+        "1": {
+          "title": "Facebook",
+          "link": "https://www.facebook.com/MagicwebsPro"
+        }
+      }
+    },
+    "section_contact": {
+      "contact": {
+        "title": "Contacto",
+        "1": {
+          "title": "Correo Electrónico",
+          "email": "info@MagicWebs.com"
+        },
+        "2": {
+          "title": "Teléfono",
+          "phone": "+52 (322) 378 75 06",
+          "link": "523223787506"
+        },
+        "3": {
+          "title": "Ubicación",
+          "location": "Lomas del Coapinole, Puerto Vallarta, Jalisco, mexico."
+        }
+      },
+      "services": {
+        "title": "Servicios",
+         "1": {
+          "title": "Desarrollo Web",
+          "link": "#"
+         },
+         "2": {
+          "title": "E-commerce",
+          "link": "#"
+         },
+         "3": {
+          "title": "Redes Sociales",
+          "link": "#"
+         }
+      }
+
+    },
+    "section_form": {
+      "title": "Suscríbete al newsletter",
+      "email": "Correo Electrónico",
+      "text": "Mensaje"
+    },
+
+    "form_error": {
+      "success": "Mensaje enviado correctamente",
+      "error": "Error al enviar. Intenta de nuevo.",
+      "submit": {
+        "1": "Enviando...",
+        "2": "Enviar Mensaje"
+      }
+    }
+    
+  },
+
+  "privacy":{
+    "title": "Política de Privacidad"
+  },
+
+  "signature": {
+    "title": "© 2026 MagicWebs. Todos los derechos reservados."
+  },
+
+  "button": {
+    "btn_quote": "Solicitar Cotización",
+    "btn_proyect": "Comenzar Proyecto",
+    "btn_services": "Ver Servicios",
+    "btn_call": "Llamar Ahora",
+    "btn_send": "Enviar Mensaje"
+  },
+
+  "form_quote": {
+    "title": "Solicitar Cotización",
+    "description": "Completa el formulario y nos pondremos en contacto contigo pronto.",
+    "form": {
+      "name": {
+        "title": "Nombre completo",
+        "input": "Ingresa tu nombre"
+      },
+      "email": {
+        "title": "Correo electrónico",
+        "input": "Ingresa tu correo electrónico"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "input": "+52 (322) 123 45 67"
+      },
+      "imagen": "Adjuntar imagen (JPG o PNG)",
+      "comment": {
+        "title" : "Comentarios",
+        "text": "Cuéntanos sobre tu proyecto"
+      }
+    },
+
+    "form_send": {
+      "1": "Enviando...",
+      "2": "Enviar Solicitud"
+    },
+
+    "form_error": {
+      "imagen_error": "Haz clic para subir una imagen",
+      "error": "Error al enviar el mensaje. Por favor, intenta de nuevo."
+    }
+  }
+}
