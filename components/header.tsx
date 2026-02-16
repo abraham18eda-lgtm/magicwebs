@@ -29,6 +29,8 @@ export function Header() {
     { label:  t('nav.contact'), href: "#contacto" },
   ]
 
+  const logo = { image: "/logo/logo-magicwebs-depelover.png"}
+
   // Cierre del Menu en mobile al darle click fuera
   const headerRef  = useRef<HTMLDivElement>(null); // referencia al menú
 
@@ -48,14 +50,15 @@ export function Header() {
   return (
     <>
       <header  ref={headerRef} className="relative sticky top-0 z-50 w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto flex h-22 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-4">
             <Link href="/">
-              {/* <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-                <span className="text-lg font-bold text-primary-foreground">DS</span>
-              </div> */}
-              {/* <PiBuildingOffice className="w-6 h-6 text-primary"  fill="currentColor" /> */}
-              <span className="text-2xl font-bold text-primary uppercase">Magicwebs</span>
+              <span className="text-2xl font-bold text-primary uppercase">
+                <img 
+                  src={logo.image} 
+                  alt="Logo" 
+                  className="h-[80px] lg:h-[80px] w-full" />
+              </span>
             </Link>
             <button
               onClick={toggleLanguage}

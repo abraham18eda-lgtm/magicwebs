@@ -121,7 +121,7 @@ export function Footer() {
                 <div>
                   <span className="block text-sm font-medium text-foreground">{ t('footer.section_contact.contact.1.title') }</span>
                   <a
-                    href="mailto:info@magicwebspro.com"
+                    href="mailto:info@magicwebspro.com" 
                     className="text-sm text-muted-foreground hover:text-primary"
                   >
                     { t('footer.section_contact.contact.1.email') }

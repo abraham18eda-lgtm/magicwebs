@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     shortcut: "icon/magicwebspro-favicon.png",
     apple: "icon/magicwebspro-favicon.png", // opcional para iOS
   },
-}
+} 
 
 export default function RootLayout({
   children,

@@ -2,7 +2,12 @@ import { neon } from "@neondatabase/serverless"
 import { NextResponse } from "next/server"
 import { put } from "@vercel/blob"
 
+if (!process.env.DATABASE_URL) {
+  throw new Error("DATABASE_URL no está definida")
+}
+
 const sql = neon(process.env.DATABASE_URL!)
+
 export const runtime = "nodejs"
 
 export async function POST(request: Request) {
@@ -37,14 +42,14 @@ export async function POST(request: Request) {
     let imageUrl: string | null = null
     if (image && image.size > 0) {
       // Convertir a Buffer antes de subir
-      const buffer = Buffer.from(await image.arrayBuffer())
+      // const buffer = Buffer.from(await image.arrayBuffer())
       // console.log("Token:", process.env.BLOB_READ_WRITE_TOKEN)
 
       //Upload to Vercel Blob
-      const blob = await put(image.name, image, { 
-          access: 'public',
-          token: process.env.BLOB_READ_WRITE_TOKEN
-       })
+      const blob = await put(image.name, await image.arrayBuffer(), { 
+        access: 'public',
+        token: process.env.BLOB_READ_WRITE_TOKEN
+      })
       imageUrl = blob.url
     }
     
@@ -64,7 +69,7 @@ export async function POST(request: Request) {
       { success: true, message: "Solicitud recibida correctamente" },
       { status: 200 }
     )
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error processing contact form:", error)
     return NextResponse.json(
       { error: "Error al procesar la solicitud" },
