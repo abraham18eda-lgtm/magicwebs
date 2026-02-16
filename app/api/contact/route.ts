@@ -38,7 +38,7 @@ export async function POST(request: Request) {
     if (image && image.size > 0) {
       // Convertir a Buffer antes de subir
       const buffer = Buffer.from(await image.arrayBuffer())
-      console.log("Token:", process.env.BLOB_READ_WRITE_TOKEN)
+      // console.log("Token:", process.env.BLOB_READ_WRITE_TOKEN)
 
       //Upload to Vercel Blob
       const blob = await put(image.name, image, { 
@@ -58,7 +58,7 @@ export async function POST(request: Request) {
     
 
     // For now, log the submission (remove in production)
-    console.log("Contact form submission:", { name, email, phone, message })
+    // console.log("Contact form submission:", { name, email, phone, message })
 
     return NextResponse.json(
       { success: true, message: "Solicitud recibida correctamente" },
