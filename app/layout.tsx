@@ -12,6 +12,11 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'MagicWebs | Desarrollo Web, E-commerce y Software',
   description: 'Soluciones digitales profesionales para tu negocio. Desarrollo web, tiendas online y software a medida.',
+   icons: {
+    icon: "icon/magicwebspro-favicon.png",   // Ruta relativa desde la carpeta public
+    shortcut: "icon/magicwebspro-favicon.png",
+    apple: "icon/magicwebspro-favicon.png", // opcional para iOS
+  },
 }
 
 export default function RootLayout({
