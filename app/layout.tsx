@@ -26,21 +26,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-        <head>
-        {/* Google Analytics */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-J2C1HKC0F6"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-J2C1HKC0F6');
-          `}
-        </Script>
-      </head>
       <TranslationsProvider>
         <body className={`${inter.variable} font-sans antialiased`}>{children}</body>
       </TranslationsProvider>
