@@ -29,7 +29,7 @@ export function Header() {
     { label:  t('nav.contact'), href: "#contacto" },
   ]
 
-  const logo = { image: "/logo/logo-magicwebs-depelover.png"}
+  const logo = { image: "/logo/logo-magicwebs-development-main.png"}
 
   // Cierre del Menu en mobile al darle click fuera
   const headerRef  = useRef<HTMLDivElement>(null); // referencia al menú
