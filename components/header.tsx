@@ -57,7 +57,7 @@ export function Header() {
                 <img 
                   src={logo.image} 
                   alt="Logo" 
-                  className="h-[80px] lg:h-[80px] w-full" />
+                  className="h-[60px] lg:h-[60px] w-full" />
               </span>
             </Link>
             <button
