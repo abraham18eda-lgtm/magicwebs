@@ -35,7 +35,7 @@ export default function CookieBanner() {
   return (
     <div className="fixed bottom-0 inset-x-0 z-50 bg-gray-600 text-white">
       <div className="max-w-6xl mx-auto px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-4">
-        <p className="text-sm text-gray-300 whitespace-pre-line">
+        <p className="text-sm text-gray-300">
            { t( 'cookie-policy.banner_text' ) }{" "}
           <Link
             href="/cookie-policy"
