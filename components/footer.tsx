@@ -213,12 +213,15 @@ export function Footer() {
             { t('signature.title') }
           </p>
           <div className="flex gap-6">
-            <Link href="#" className="text-sm text-muted-foreground hover:text-primary">
-              { t('privacy.title') }
+            <Link href="/privacy-policy" className="text-sm text-muted-foreground hover:text-primary">
+              { t('privacy-policy.title') }
             </Link>
-            {/* <Link href="#" className="text-sm text-muted-foreground hover:text-primary">
-              Términos de Servicio
-            </Link> */}
+            <Link href="/cookie-policy" className="text-sm text-muted-foreground hover:text-primary">
+              { t('cookie-policy.title') }
+            </Link>
+            <Link href="/term" className="text-sm text-muted-foreground hover:text-primary">
+              { t('term.title') }
+            </Link>
           </div>
         </div>
       </div>

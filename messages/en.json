@@ -288,5 +288,25 @@
       "imagen_error": "Click to upload an image",
       "error": "Something went wrong. Please try again"
     }
+  },
+
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "description": "**Magicwebs Development**,  located in Puerto Vallarta, Jalisco, Mexico, is responsible for the processing of the personal data you provide in accordance with applicable data protection laws.  \n\n The personal data we collect includes name, phone number, and email address, which are used exclusively for contact purposes, quotations, web development services, and commercial follow-up.  \n\nThis website uses analytics and tracking technologies for statistical purposes and continuous improvement, without directly identifying users.  \n\nWe implement administrative, technical, and physical security measures to protect your personal data against unauthorized access or misuse.  \n\nYou may exercise your data protection rights by contacting us at: contact@magicwebspro.com"
+  },
+
+  "cookie-policy": {
+    "title": "Cookie Policy",
+    "description": "This website uses cookies and similar technologies to analyze browsing behavior, collect statistical information, improve user experience, and optimize our content and services.  \n\nCookies are small files stored on the user’s device that allow the browser to be recognized and anonymous information to be collected.  \n\n By continuing to browse this website, the user agrees to the use of cookies in accordance with this policy.",
+
+    "banner_text": "We use analytics and tracking technologies to improve your experience. \n\n You may accept or decline their use. Please review our",
+    "1": "Decline",
+    "2": "Accept"
+  },
+
+  "term": {
+    "title":  "Terms & Conditions",
+     "description": "Welcome to **Magicwebs Development**. By accessing and using this website, you agree to comply with these Terms and Conditions. If you do not agree with any part of them, please refrain from using this website.  \n\n **Website use**  \n\n The content of this website is provided for informational and commercial purposes only. Magicwebs Development reserves the right to modify, update, or remove any content without prior notice.  \n\n **Services**  \n\n  Services offered are subject to availability and to specific agreements established with each client. Use of this website does not guarantee the provision of any service. \n\n ** Intellectual property **  \n\n All content, designs, text, logos, images, and code displayed on this website are the property of Magicwebs Development or are used with authorization and are protected by applicable intellectual property laws.  \n\n **Limitation of liability**  \n\n Magicwebs Development shall not be liable for any direct or indirect damages arising from the use or inability to use this website.\n\n  ** Changes to terms **  \n\n Magicwebs Development reserves the right to modify these Terms and Conditions at any time. Changes will become effective upon publication on this website.  \n\n **Governing law**  \n\n  These Terms and Conditions are governed by the laws applicable in the United Mexican States. Any dispute shall be submitted to the competent courts."
   }
+
 }

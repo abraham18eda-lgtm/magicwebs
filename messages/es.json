@@ -290,5 +290,25 @@
       "imagen_error": "Haz clic para subir una imagen",
       "error": "Error al enviar el mensaje. Por favor, intenta de nuevo."
     }
+  },
+
+  "privacy-policy": {
+    "title": "Aviso de Privacidad",
+    "description": "**Magicwebs Development**, con domicilio en Puerto Vallarta, Jalisco, México, es responsable del tratamiento de los datos personales que nos proporcione, conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. \n\n Los datos personales que recabamos incluyen nombre, número telefónico y correo electrónico, los cuales serán utilizados exclusivamente para fines de contacto, cotización, prestación de servicios de desarrollo web y seguimiento comercial.  \n\n Este sitio web utiliza tecnologías de análisis y seguimiento con fines estadísticos y de mejora continua, sin identificar de manera directa a los usuarios.  \n\n Implementamos medidas de seguridad administrativas, técnicas y físicas para proteger sus datos personales contra daño, pérdida, alteración, destrucción o uso no autorizado.  \n\n Usted puede ejercer sus derechos ARCO enviando una solicitud al correo electrónico: contact@magicwebspro.com"
+  },
+
+  "cookie-policy": {
+    "title": "Política de Cookies",
+    "description": "Este sitio web utiliza cookies y tecnologías similares con el objetivo de analizar la navegación, obtener información estadística, mejorar la experiencia del usuario y optimizar nuestros contenidos y servicios.  \n\n Las cookies son pequeños archivos que se almacenan en el dispositivo del usuario y permiten reconocer el navegador y recopilar información de forma anónima.  \n\n Al navegar por este sitio web, el usuario acepta el uso de cookies de acuerdo con esta política.",
+
+    "banner_text": "Utilizamos tecnologías de análisis y seguimiento para mejorar tu experiencia.\n\n Puedes aceptar o rechazar su uso. Consulta nuestra",
+    "1": "Rechazar",
+    "2": "Aceptar"
+  },
+
+  "term": {
+    "title":  "Términos y Condiciones",
+     "description": "Bienvenido a **Magicwebs Development**. Al acceder y utilizar este sitio web, usted acepta cumplir con los presentes Términos y Condiciones. Si no está de acuerdo con alguno de ellos, le recomendamos no utilizar este sitio.  \n\n **Uso del sitio web**  \n\n El contenido de este sitio web tiene fines informativos y comerciales. Magicwebs Development se reserva el derecho de modificar, actualizar o eliminar cualquier contenido sin previo aviso.  \n\n **Servicios**  \n\n Los servicios ofrecidos están sujetos a disponibilidad y a acuerdos específicos establecidos con cada cliente. El uso de este sitio no garantiza la contratación de ningún servicio.  \n\n **Propiedad intelectual**  \n\n Todos los contenidos, diseños, textos, logotipos, imágenes y código presentes en este sitio son propiedad de Magicwebs Development o se utilizan con autorización, y están protegidos por la legislación aplicable en materia de propiedad intelectual.  \n\n **Limitación de responsabilidad** \n\n Magicwebs Development no será responsable por daños directos o indirectos derivados del uso o la imposibilidad de uso de este sitio web.\n\n **Modificaciones**  \n\n Magicwebs Development se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones entrarán en vigor a partir de su publicación en este sitio web. \n\n **Legislación aplicable**  \n\n Estos Términos y Condiciones se rigen por las leyes aplicables en los Estados Unidos Mexicanos. Cualquier controversia será sometida a los tribunales competentes."
   }
+
 }
