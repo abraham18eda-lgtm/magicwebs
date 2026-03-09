@@ -28,7 +28,7 @@ export function PortfolioSection() {
       title: t('portfolio-section.list-card.1.title'),
       category: t('portfolio-section.list-card.1.category'),
       description: t('portfolio-section.list-card.1.description'),
-      image: "/portfolio/magictours.jpg",
+      image: "/portfolio/innovation-travel.jpg",
       technologies: ["Vue", "Tailwind", "Vite", "node.js", "axios"],
     },
     {
@@ -36,7 +36,7 @@ export function PortfolioSection() {
       title: t('portfolio-section.list-card.2.title'),
       category: t('portfolio-section.list-card.2.category'),
       description: t('portfolio-section.list-card.2.description'),
-      image: "/portfolio/innovation-travel.jpg",
+      image: "/portfolio/magictours.jpg",
       technologies: ["Laravel", "Bootstrap", "Javescript", "Vite", "Vue"],
     },
   ]
